@@ -1,0 +1,21 @@
+
+
+Total elapsed time: 4.643 seconds
+
+
+Total elapsed time: 6.430 seconds
+
+
+Total elapsed time: 8.103 seconds
+
+
+Total elapsed time: 11.779 seconds
+
+
+Total elapsed time: 33.574 seconds
+
+
+Total elapsed time: 8.660 seconds
+
+
+Total elapsed time: 18.309 seconds
